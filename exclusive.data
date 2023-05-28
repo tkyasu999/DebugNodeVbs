@@ -1,0 +1,3 @@
+SetUMSVariable
+GetUMSVariable
+Err.Raise
