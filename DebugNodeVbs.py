@@ -1,7 +1,7 @@
 #
-# \par Copyright (C), 2023, superbunnbun
+# \par Copyright (C), 2023, tkyasu999
 # @file    DebugNodeVbs.py
-# @author  superbunnbun
+# @author  tkyasu999
 # @version V1.0.0
 # @date    2023/05/28
 # @brief   Description: Arbitrary nodes implemented in VBScript (e.g., customized WinActor nodes) can be easily tested in Python.

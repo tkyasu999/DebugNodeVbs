@@ -29,7 +29,7 @@ python DebugNodeVbs.py .\sample.vbs 開始セル="A9" 終了セル="AE9"
 - None
 
 ## Author
-- superbunnbun
+- tkyasu999
 
 ## Licence
-[MIT](https://github.com/superbunnbun/DebugNodeVbs/blob/main/LICENSE)
+[MIT](https://github.com/tkyasu999/DebugNodeVbs/blob/main/LICENSE)
